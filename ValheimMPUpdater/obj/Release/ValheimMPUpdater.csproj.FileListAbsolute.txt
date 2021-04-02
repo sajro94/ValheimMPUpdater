@@ -1,0 +1,10 @@
+C:\Users\sajro\source\repos\ValheimMPUpdater\ValheimMPUpdater\bin\Release\ValheimMPUpdater.exe.config
+C:\Users\sajro\source\repos\ValheimMPUpdater\ValheimMPUpdater\bin\Release\ValheimMPUpdater.exe
+C:\Users\sajro\source\repos\ValheimMPUpdater\ValheimMPUpdater\bin\Release\ValheimMPUpdater.pdb
+C:\Users\sajro\source\repos\ValheimMPUpdater\ValheimMPUpdater\obj\Release\ValheimMPUpdater.csprojAssemblyReference.cache
+C:\Users\sajro\source\repos\ValheimMPUpdater\ValheimMPUpdater\obj\Release\ValheimMPUpdater.exe.config
+C:\Users\sajro\source\repos\ValheimMPUpdater\ValheimMPUpdater\obj\Release\ValheimMPUpdater.Properties.Resources.resources
+C:\Users\sajro\source\repos\ValheimMPUpdater\ValheimMPUpdater\obj\Release\ValheimMPUpdater.csproj.GenerateResource.cache
+C:\Users\sajro\source\repos\ValheimMPUpdater\ValheimMPUpdater\obj\Release\ValheimMPUpdater.csproj.CoreCompileInputs.cache
+C:\Users\sajro\source\repos\ValheimMPUpdater\ValheimMPUpdater\obj\Release\ValheimMPUpdater.exe
+C:\Users\sajro\source\repos\ValheimMPUpdater\ValheimMPUpdater\obj\Release\ValheimMPUpdater.pdb
