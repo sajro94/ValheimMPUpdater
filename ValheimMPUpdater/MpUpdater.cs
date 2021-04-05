@@ -45,6 +45,14 @@ namespace ValheimMPUpdater
                 var downloadDir = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "ValheimModHandler");
                 var extractedPath = Path.Combine(downloadDir, "Extracted");
                 var downloadPath = Path.Combine(downloadDir, "DownloadedModpack.zip");
+                if (!Directory.Exists(downloadDir))
+                {
+                    Directory.CreateDirectory(downloadDir);
+                }
+                if (!Directory.Exists(extractedPath))
+                {
+                    Directory.CreateDirectory(extractedPath);
+                }
                 Console.WriteLine("Downloading Newest Version");
                 webClient.DownloadFile(downloadUrl, downloadPath);
                 Console.WriteLine("Newest Version Downloaded");
