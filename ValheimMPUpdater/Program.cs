@@ -16,7 +16,7 @@ namespace ValheimMPUpdater
                 updater.Run();
             }catch(Exception e)
             {
-                Console.WriteLine(e.Message);
+                Console.WriteLine(e);
                 Console.ReadLine();
             }
         }

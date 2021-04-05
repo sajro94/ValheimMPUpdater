@@ -63,9 +63,39 @@ namespace ValheimMPUpdater.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
+        internal static byte[] System_IO_Compression {
+            get {
+                object obj = ResourceManager.GetObject("System_IO_Compression", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] System_IO_Compression_FileSystem {
+            get {
+                object obj = ResourceManager.GetObject("System_IO_Compression_FileSystem", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
         internal static byte[] System_Memory {
             get {
                 object obj = ResourceManager.GetObject("System_Memory", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Byte[].
+        /// </summary>
+        internal static byte[] System_Net_Http {
+            get {
+                object obj = ResourceManager.GetObject("System_Net_Http", resourceCulture);
                 return ((byte[])(obj));
             }
         }

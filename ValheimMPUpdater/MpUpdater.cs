@@ -5,7 +5,6 @@ using System.IO.Compression;
 using Microsoft.Win32;
 using System.Text.Json;
 using System.Reflection;
-using System.Buffers;
 
 namespace ValheimMPUpdater
 {
